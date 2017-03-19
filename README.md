@@ -1,4 +1,4 @@
-# typescript-vue-example
+# Vue-SingleFileComponents-TypeScript
 
 > A Vue.ts project using TypeScript internally and externally
 

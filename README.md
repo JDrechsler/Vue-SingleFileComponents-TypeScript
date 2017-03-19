@@ -1,6 +1,6 @@
 # Vue-SingleFileComponents-TypeScript
 
-> A Vue.ts project using TypeScript internally and externally
+> A Vue.ts project using TypeScript internally and externally with Hot Module Replacement.
 
 ## Build Setup
 

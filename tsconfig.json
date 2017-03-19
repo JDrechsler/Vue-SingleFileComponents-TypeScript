@@ -1,0 +1,23 @@
+{
+	"compilerOptions": {
+		"types": [
+			"vue-typescript-import-dts"
+		],
+		"target": "es5",
+		"allowJs": true,
+		"lib": [
+			"es5",
+			"es2015.promise",
+			"dom"
+		],
+		"moduleResolution": "node",
+		"experimentalDecorators": true,
+		"allowSyntheticDefaultImports": true
+	},
+	"include": [
+		"src"
+	],
+	"exclude": [
+		"node_modules"
+	]
+}

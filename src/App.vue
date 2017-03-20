@@ -1,9 +1,23 @@
 <template>
-	<div id="app">
+	<div id="app" class="container-fluid">
 		<img src="./assets/logo.png">
-		<Hello></Hello>
-		<Credits></Credits>
-		<LodashTest></LodashTest>
+		<div class="row">
+			<div class="col-md-12">
+				<Hello></Hello>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-12">
+				<Credits></Credits>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-12">
+				<LodashTest></LodashTest>
+			</div>
+		</div>
 	</div>
 </template>
 
